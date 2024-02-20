@@ -1,0 +1,22 @@
+.cart {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .cart h2 {
+    margin-top: 0;
+  }
+  
+  .cart ul {
+    padding: 0;
+  }
+  
+  .cart li {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5px;
+  }
